@@ -416,3 +416,133 @@ mv --help
 ls
 mv addition.sh subtraction.sh /home/ubuntu/Documents/
 sudo -i
+ls
+vim 26_may.sh
+vim if_else.sh
+sudo apt update
+sudo apt install git -y
+git --version
+git init
+git config --global user.name "panchalnik"
+git config --global user.email "panchalnik285@gmail.com"
+git config --list
+git commit -m "first commit"
+git add .
+git status
+git commit -m "add"
+git branch -M main
+git branch
+git remote add origin https://github.com/panchalnik/bashscript.git
+git push -u origin main
+git config --global credential.helper store
+ls
+rm 26_may.sh 
+vim create_folder.sh 
+rm create_folder.sh 
+vim python_assignment/
+rm python_assignment/
+mkdir 1_age.sh
+vim 1_age.sh
+rm 1_age.sh/
+rmdir 1_age.sh/
+vim 1_age.sh
+vim 700 1_age.sh
+rm 700 1_age.sh
+rmdir 700 1_age.sh
+chmod 700 1_age.sh
+ls
+vim 01_age.sh
+chmod 700 01_age.sh 
+./01_age.sh 
+vi 01_age.sh 
+./01_age.sh 
+vi 01_age.sh 
+./01_age.sh 
+vi 01_age.sh 
+vi 01_positive_number.sh
+chmod 700 01_positive_number.sh 
+./01_positive_number.sh 
+git status
+git add .
+git commit -m "add"
+git push
+ls
+vim 3_passing_marks.sh
+chmod 700 3_passing_marks.sh 
+./3_passing_marks.sh 
+vi 4_equal_numbers.sh
+chmod 700 4_equal_numbers.sh 
+./4_equal_numbers.sh 
+vi 4_equal_numbers.sh 
+./4_equal_numbers.sh 
+vi 5_speed.sh
+chmod 700 5_speed.sh 
+./5_speed.sh 
+vi 6_temperature.sh
+chmod 700 6_temperature.sh 
+./6_temperature.sh 
+vim 7_salary.sh
+chmod 700 7_salary.sh 
+./7_salary.sh 
+vim 8_distinction.sh
+chmod 700 8_distinction.sh 
+./8_distinction.sh 
+vi 9_numbers_not_equal.sh
+chmod 700 9_numbers_not_equal.sh 
+./9_numbers_not_equal.sh 
+vi 10_weight.sh
+chmod 700 10_weight.sh 
+./10_weight.sh 
+vi 11_senior.sh
+chmod 700 11_senior.sh 
+./11_senior.sh 
+vi 12_comparison.sh
+chmod 700 12_comparison.sh 
+./12_comparison.sh 
+vi 15_run.sh
+chmod 700 15_run.sh 
+./15_run.sh 
+vi 15_run.sh 
+./15_run.sh 
+./15
+./15_run.sh 
+vi 16_server.sh
+chmod 700 16_server.sh 
+./16_server.sh 
+vim 16_server.sh 
+./16_server.sh 
+vim 17_cpu.sh
+chmod 700 17_cpu.sh 
+./17_cpu.sh 
+vi 18_disk.sh
+chmod 700 18_disk.sh 
+./18_disk.sh 
+vi 19_pods.sh
+chmod 700 19_pods.sh 
+./19_pods.sh 
+vi 20_memory.sh
+chmod 700 20_memory.sh 
+./20_memory.sh 
+vi 21_server_response.sh
+chmod 700 21_server_response.sh 
+./21_server_response.sh 
+vi 21_server_response.sh 
+./21_server_response.sh 
+vi 22_file_size.sh
+chmod 700 22_file_size.sh 
+./22_file_size.sh 
+vi 22_file_size.sh 
+./22_file_size.sh 
+vi 23_deployement.sh
+chmod 700 23_deployement.sh 
+./23_deployement.sh 
+vi 24_replica.sh
+chmod 700 24_replica.sh 
+./24_replica.sh 
+vi 25_http.sh
+chmod 700 25_http.sh 
+./25_http.sh 
+vi 12_comparison.sh 
+./12_comparison.sh 
+vi 12_comparison.sh 
+./12_comparison.sh 
