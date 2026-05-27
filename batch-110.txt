@@ -1,0 +1,64 @@
+technical guftgu
+
+02/05/2026 *means very important.
+
+DevOps*= Development + operations
+ It is a culture + set of practices that helps teams:
+. Build software faster
+. Release it frequently
+. Maintain high quality
+
+SIMPLE DEFINITION FOR BEGINEERS
+DevOps is a way of working where developers and operations  teams collaborate using automation to deliver software quickly and reliably.
+
+KEY GOALS:
+.Faster delivery
+.Better quality
+.Continuous improvement
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SOFTWARE DEVELOPMANT LIFECYCLE (SDLC): SDLC includes
+Planning (Requirement gathering) 2. Design (System architecture, UI/UX) 3. Development (writing code) 4. Testing(Bug fixing, QA) 5. Deployment(Release to users) 6.Maintenance
+
+Traditional SDLC=slow
+DevOps SDLC=continuous + automated
+
+TWO METHODS OF SDLC:
+waterfall(requirements, Design, Development, Testing , Deployment) 2. Agile method*
+
+---------------------------------------------------------------------------------------------------------------------------
+
+CI/CD:CONTINUOUS INTEGRATION VS CONTINUOUS DELIVERY VS CONTINUOUS DEPLOYEMENT
+
+.CONTINUOUS INTEGRATION
+  .Developers push code frequently
+
+  .Code is automatically: built and tested
+
+.CONTINUOUS DELIVERY : code is ready for deployment anytime
+
+.CONTINUOUS DEPLOYMENT: code automatically goes to production
+
+PIPELINE FLOW: code -> Build -> Test -> Deployment ->  Monitor
+----------------------------------------------------------------------------------------------------------------------------
+WHY COMPANIES USE DEVOPS
+
+1.Speed: Faster releases (days -> hours)
+2.Reliability: Automated testing reduces bugs , Stable releases
+3.Benefits Summary: faster time to market , Better collaboration , Less manual work , Quick bug fixes
+
+Example: without DevOps: release in 3 months and with DevOps release daily or weekly
+----------------------------------------------------------------------------------------------------------------------------
+
+VM AND DOCKER*
+Bhai puchte hai interview mai
+---------------------------
+hello
+HELLO
+HEllo
+
+
+
+
+

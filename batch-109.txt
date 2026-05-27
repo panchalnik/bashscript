@@ -1,0 +1,91 @@
+how to set password: sudo passwd user\_name
+
+how to add group: sudo groupadd user\_name
+
+sudo usermod -aG developers test-user : we add user to group
+
+how to verify users joined group: group username
+
+ssh: secure shell (jo apko remove servers se connect karta hai)
+
+sudo userdel test-user used
+sudo groupdel developers -delete group.
+
+sudo gpasswd -d username groupname :delete user from group
+
+LINUX CREATES A SAME NAME GROUP AUTOMATICALLY FOR A NEW USER BECAUSE IT MAKE PERMISSION MANAGEMENT CLEANER, SAGE AND EASIER IN MULTI SERVER SYSTEM.
+
+LINUX FOLLOWS A MODE NAME UPG(USER PRIVATE GROUP).IT IS CALLED PRIMARY GROUP.
+
+sudo adduser demo-user2: ye apse fiull info lega.
+getent group demo-user2 - ye apko bata dega ke user ki entry hui ya nahi....it means get entry.
+
+sudo chown demo-user for loop.sh- it changes your owner
+sudo chgrp demo-user forloop.sh-it changes your group.
+change ownership change group-sudo chown username:groupname filename -------------
+----------------------------------------------------
+------------------------------------------------------------------------------
+FEW SEARCHING COMMANDS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+how to debug:
+
+ls -lh
+
+check ownership
+
+permission change 
+hello
+HELLO
+Hello
+
