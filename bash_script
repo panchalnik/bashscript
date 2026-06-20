@@ -1,0 +1,5 @@
+#!/bin/bash
+read -p "Enter Your dividend :" num1
+read -p "Enter your divisor:" num2
+result=$((num1%num2))
+echo "The output when $num1 is divided by $num2:" $result
